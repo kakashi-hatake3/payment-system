@@ -34,7 +34,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
+git clone git@github.com:kakashi-hatake3/payment-system.git
 cd payment-system
 ```
 2. Настройте переменные окружения в `.env`
